@@ -1,7 +1,10 @@
 ## React & Apollo Tutorial
 
+https://www.howtographql.com/react-apollo
+
 This is the sample project that belongs to the React & Apollo Tutorial on How to GraphQL.
 How to use
+
 1. Clone repository
 
 git clone https://github.com/howtographql/react-apollo/
@@ -24,8 +27,7 @@ Then, follow these steps in the interactive CLI wizard:
     Authenticate with Prisma Cloud in your browser (if necessary)
     Back in your terminal, confirm all suggested values
 
-Alternative: Run Prisma locally via Docker
-3. Start the server
+Alternative: Run Prisma locally via Docker 3. Start the server
 
 To start the server, all you need to do is execute the start script by running the following command inside the server directory:
 
