@@ -1,4 +1,4 @@
-React & Apollo Tutorial
+## React & Apollo Tutorial
 
 This is the sample project that belongs to the React & Apollo Tutorial on How to GraphQL.
 How to use
