@@ -41,34 +41,3 @@ yarn install
 yarn start
 
 You can now open your browser and use the app on http://localhost:3000.
-About
-No description, website, or topics provided.
-Resources
-Readme
-License
-MIT License
-Releases
-No releases published
-Packages
-No packages published
-Contributors 11
-
-    @nikolasburk
-    @swcarlosrj
-    @marktani
-    @Arieg419
-    @anku255
-    @thewillwill
-    @incon
-    @dstroot
-    @oprearocks
-    @bodazhao
-    @qucode1
-
-Languages
-
-JavaScript 94.3%
-HTML 3.5%
-
-    CSS 2.2% 
-
